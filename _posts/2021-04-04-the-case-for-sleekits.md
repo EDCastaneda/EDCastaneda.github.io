@@ -12,7 +12,7 @@ header:
   overlay_image: assets/images/headers/btc_on_the_wall.jpg
   overlay_color: "#FFF"
   overlay_filter: "0.85" 
-  caption: "Credit: [Executium@Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "By [Executium@unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
 
 
@@ -24,6 +24,8 @@ In this post I'll share my thoughts and experience regarding *Sleekits*, a side 
 
 ## The Solutions
 
+### Assumptions
+
 ## Overlook
 
 ### The Market
@@ -33,3 +35,5 @@ In this post I'll share my thoughts and experience regarding *Sleekits*, a side 
 ### The Competition
 
 ## Oportunity
+
+### Methodology 
