@@ -1,0 +1,136 @@
+include: ["_pages"]
+locale: "en"
+email: edct.code@gmail.com
+description: "ED's Blog"
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: https://github.com/EDCastaneda/EDCastaneda.github.io
+github_username:  EDCastaneda
+title: "EDCastaneda"
+repository: "EDCastaneda/EDCastaneda.github.io"
+logo: "/assets/images/logo.png"
+
+
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+minimal_mistakes_skin: "neon" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+
+markdown: kramdown
+
+#Custom settings
+words_per_minute: 200
+paginate: 10
+paginate_path: /page:num/
+search: false
+breadcrumbs: false
+timezone: Europe/Lisbon
+# URL like domain.com/article-name
+permalink: /:title
+
+# Site Author
+author:
+  name             : "Eduardo Castaneda"
+  avatar           : "/assets/images/edct.jpg"
+  bio              : "Developer, Engineer, Business Enthusiast and Entrepreneur"
+  location         : "Portugal"
+  email            : edct.code@gmail.com
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "EDCastaneda"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "eduardo-castaneda"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : "e_d_castaneda"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
+
+# Add Disqus comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: #""
+
+# SEO
+# google-site-verification: ""
+
+# Analytics
+analytics:
+  provider      : #"google-universal"
+  google:
+    tracking_id : #"UA--1"
+
+# # Site Footer
+# footer:
+  # links:
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://instagram.com/"
+  #   - label: "Facebook"
+  #     icon: "fab fa-fw fa-facebook-square"
+  #     url: "https://instagram.com/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://instagram.com/"
+  #   - label: "GitLab"
+  #     icon: "fab fa-fw fa-gitlab"
+  #     url: "https://instagram.com/"
+  #   - label: "Bitbucket"
+  #     icon: "fab fa-fw fa-bitbucket"
+  #     url: "https://instagram.com/"
+  #   - label: "Instagram"
+  #     icon: "fab fa-fw fa-instagram"
+  #     url: "https://instagram.com/"
+
+#
+#
+# collections:
+#   projects:
+#     output: true
+#     permalink: /:collection/:name/
+#
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      share: true
+      related: true
+      author_profile: true
+      read_time: true
+      comments:  false
