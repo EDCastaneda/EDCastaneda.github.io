@@ -3,7 +3,7 @@ locale: "en"
 email: edct.code@gmail.com
 description: "ED's Blog"
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://github.com/EDCastaneda/EDCastaneda.github.io
+url: https://edcastaneda.github.io
 github_username:  EDCastaneda
 title: "EDCastaneda"
 repository: "EDCastaneda/EDCastaneda.github.io"
@@ -15,7 +15,9 @@ remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 minimal_mistakes_skin: "neon" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
   - jekyll-include-cache
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
   - jekyll-seo-tag
   - jekyll-feed
 

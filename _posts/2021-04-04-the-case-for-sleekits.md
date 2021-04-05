@@ -11,8 +11,8 @@ header:
   teaser: assets/images/headers/btc_on_the_wall.jpg
   overlay_image: assets/images/headers/btc_on_the_wall.jpg
   overlay_color: "#FFF"
-  overlay_filter: "0.85" 
-  caption: "By [Executium@unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  overlay_filter: "0.88" 
+  caption: "[executium@unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
 
 
