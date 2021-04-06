@@ -8,11 +8,11 @@ header:
   overlay_color: "#FFF"
   overlay_filter: "0.85"
   overlay_image: /assets/images/about.jpg
-  caption: "By [freepik](https://www.freepik.com/photos/business)"
+  caption: "[Daniele Levis Pelusi@unsplash](https://unsplash.com/@yogidan2012?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 excerpt: "Facts & Stuff"
 
 ---
-  
+    
 
 ### Hi there, I'm ED - 👋
 

@@ -8,13 +8,14 @@ toc_label: On this page
 toc_sticky: true
 
 header:
-  teaser: assets/images/headers/btc_on_the_wall.jpg
-  overlay_image: assets/images/headers/btc_on_the_wall.jpg
-  overlay_color: "#FFF"
-  overlay_filter: "0.88" 
-  caption: "[executium@unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  overlay_color: "#f21368"
+  overlay_filter: "0.8"
+  teaser: assets/images/teaser_post.jpg
+  overlay_image: assets/images/post.jpg
+  caption: "[MaxKleinen@unsplash](https://unsplash.com/@hirmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 ---
 
+  
 
 # The Case for Sleekits
 
