@@ -5,7 +5,7 @@ description: "ED's Blog"
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: https://edcastaneda.github.io
 github_username:  EDCastaneda
-title: "EDCastaneda"
+title: "ECastaneda"
 repository: "EDCastaneda/EDCastaneda.github.io"
 logo: "/assets/images/logo.png"
 
@@ -36,9 +36,9 @@ permalink: /:title
 
 # Site Author
 author:
-  name             : "Eduardo Castaneda"
+  name             : "ED Castañeda"
   avatar           : "/assets/images/edct.jpg"
-  bio              : "Developer, Engineer, Business Enthusiast and Entrepreneur"
+  bio              : "Developer, Engineer, Business Enthusiast & Entrepreneur"
   location         : "Portugal"
   email            : edct.code@gmail.com
   bitbucket        :
